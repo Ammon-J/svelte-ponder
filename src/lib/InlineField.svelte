@@ -92,5 +92,6 @@
   }
   .value:hover {
     background: #f5f5f5;
+    color: black;
   }
 </style>
